@@ -22,11 +22,11 @@
                                 <rect key="frame" x="118" y="264" width="138" height="139"/>
                             </imageView>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="rFc-k6-0Mp" secondAttribute="trailing" constant="119" id="0wI-wq-md9"/>
                             <constraint firstItem="rFc-k6-0Mp" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="118" id="F3F-6V-kpn"/>
-                            <constraint firstItem="rFc-k6-0Mp" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="244" id="avr-Df-CTu"/>
+                            <constraint firstItem="rFc-k6-0Mp" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="244" id="Ie2-E0-Qom"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="rFc-k6-0Mp" secondAttribute="bottom" constant="264" id="kZj-lB-uba"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
